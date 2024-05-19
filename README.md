@@ -1,4 +1,4 @@
-# Programação Orientada a Objeto e estrutura de dados com Java
+# Programação orientada a objeto e estrutura de dados com Java
 - Encapsulamento
 - Herança
 - Abstração
